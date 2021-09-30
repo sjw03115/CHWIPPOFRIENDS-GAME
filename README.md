@@ -1,0 +1,2 @@
+# CHWIPPOFRIENDS-GAME
+게임만 다운가능함
